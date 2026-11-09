@@ -1,0 +1,6 @@
+{
+  "name": "Forge Athletics",
+  "description": "Research-backed strength, functional health, and conditioning programs for Everyday Athletes, Boxing, Rugby, American Football, Soccer, and Basketball with periodized blocks, longevity benchmarks, progression tracking, and exercise guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
