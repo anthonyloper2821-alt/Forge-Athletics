@@ -1,4 +1,4 @@
-# ApexAthlete S&C Platform (Foundry Athletics)
+# Forge Athletics
 
 > **Sports Science & Everyday Longevity Performance Web Application**  
 > Built with React 19, TypeScript, Vite, Tailwind CSS, and HTML5 Web APIs.
